@@ -1,0 +1,10 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+google-genai>=2.23.0
+python-dotenv>=1.0
+tavily-python>=0.5
+pydantic>=2.8
+numpy>=2.0
+scikit-learn>=1.5
+matplotlib>=3.9
+reportlab>=4.2
